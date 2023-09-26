@@ -101,7 +101,8 @@ EL proyecto busca tener una interfaz amigable y confiable para los clientes, a t
 La realizacion del proyecto es de forma progresiva por la que los mockups seran una guia final o expectativa.
 
 ### Avance del proyecto
-
+#### Interfaz registro de usuario
+![iu](https://github.com/eluqm/CsoftwareGrupo04/blob/main/imagenes/usuario.JPG)
 # **Pruebas Unitarias**
 
 # **Concepto CRUD aplicado**
